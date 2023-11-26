@@ -1,0 +1,16 @@
+#root {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+h1{
+  font-size: 3rem;
+}
